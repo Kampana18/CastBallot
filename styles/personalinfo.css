@@ -1,0 +1,491 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.personalinfo-nUm {
+  box-sizing: border-box;
+  padding: 7.5rem 15.7rem 20.3rem 20rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #001024;
+}
+.personalinfo-nUm .dashboardnavbar-71F {
+  margin: 0rem 0rem 12.25rem 33.696rem;
+  height: 3.85rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .dashboardnavbar-71F .group-7-Rnd {
+  margin-right: 8.9958rem;
+  box-sizing: border-box;
+  padding: 0rem 0.004rem 0rem 0.004rem;
+  width: 14.6085rem;
+  height: 100%;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.3rem #005ac7;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .dashboardnavbar-71F .elections-sed {
+  margin-right: 9.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor:pointer;
+}
+.personalinfo-nUm .dashboardnavbar-71F .contact-c6R {
+  margin-right: 9.1rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .dashboardnavbar-71F .votebutton-wPb {
+  width: 14rem;
+  height: 3.5rem;
+  position: relative;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .dashboardnavbar-71F .votebutton-wPb .rectangle-22-gry {
+  width: 14rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #015fc7;
+  border-radius: 0.5rem;
+}
+.personalinfo-nUm .dashboardnavbar-71F .votebutton-wPb .vote-pyB {
+  width: 4.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH {
+  margin-right: 11.5rem;
+  width: calc(100% - 11.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .auto-group-feum-sRf {
+  margin-right: 17.5rem;
+  width: 28.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .auto-group-feum-sRf .group-6-QgV {
+  width: 28.5rem;
+  height: 27.5994rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .auto-group-feum-sRf .auto-group-o4hb-ZJV {
+  box-sizing: border-box;
+  padding-top: 6.1006rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .auto-group-feum-sRf .auto-group-o4hb-ZJV .auto-group-vyx3-7L1 {
+  margin-bottom: 6rem;
+  width: 28.2rem;
+  height: 4.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #015fc7;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.personalinfo-nUm .profile-7xH .auto-group-feum-sRf .auto-group-o4hb-ZJV .auto-group-nkqo-Ap5 {
+  margin: 0rem 10.7rem 0rem 3.6rem;
+  width: calc(100% - 14.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .auto-group-feum-sRf .auto-group-o4hb-ZJV .auto-group-nkqo-Ap5 .vector-6hj {
+  margin-right: 1.7rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .auto-group-feum-sRf .auto-group-o4hb-ZJV .auto-group-nkqo-Ap5 .edit-profile-qfK {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH {
+  margin-top: 0.8rem;
+  width: 50.8rem;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR {
+  box-sizing: border-box;
+  padding-bottom: 3.6rem;
+  width: 100%;
+  row-gap: 3.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-wvxk-3WV {
+  width: 9.3rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-wvxk-3WV .john-doe-PqF {
+  width: 9.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 2rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-wvxk-3WV .name--h5F {
+  width: 4.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-kdid-CXo {
+  width: 18.4rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-kdid-CXo .papa-john-doe-kJR {
+  width: 14.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 2rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-kdid-CXo .fathers-mothers-name--fRP {
+  width: 18.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ywu7-yBB {
+  margin-right: 5.7rem;
+  width: calc(100% - 5.7rem);
+  height: 5.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ywu7-yBB .auto-group-2sxs-6mb {
+  margin-right: 27.1rem;
+  width: 3.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ywu7-yBB .auto-group-2sxs-6mb .item-19-dFj {
+  width: 2.1rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ywu7-yBB .auto-group-2sxs-6mb .age--Y7o {
+  width: 3.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ywu7-yBB .auto-group-aqdo-4M3 {
+  width: 14.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ywu7-yBB .auto-group-aqdo-4M3 .item-91-9191505010-RBb {
+  width: 14.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ywu7-yBB .auto-group-aqdo-4M3 .mobile-number--XVX {
+  width: 11.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ekrz-3Cy {
+  width: 21.7rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ekrz-3Cy .johndoegmailcom-PXj {
+  width: 21.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 2rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-ekrz-3Cy .email--uFB {
+  width: 4.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-vwkw-BiV {
+  width: 19.8rem;
+  height: 5.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-vwkw-BiV .item-6100-4080-9126-0909-iCd {
+  width: 19.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-rnmt-hxR .auto-group-vwkw-BiV .aadhar-number--xMs {
+  width: 12.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-geh3-eEh {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 5.2rem;
+  position: relative;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-geh3-eEh .xyz-street-no-92-gurgaon-uttar-pardesh-100021-zJZ {
+  width: 50.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 2rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-geh3-eEh .address-gBP {
+  width: 6.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-2bgy-anZ {
+  margin-right: 14.4rem;
+  width: calc(100% - 14.4rem);
+  height: 5.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-2bgy-anZ .auto-group-gxf3-Ved {
+  margin-right: 25rem;
+  width: 5.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-2bgy-anZ .auto-group-gxf3-Ved .true-SZs {
+  width: 4.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-2bgy-anZ .auto-group-gxf3-Ved .eligible--m6M {
+  width: 5.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-2bgy-anZ .auto-group-9hv7-UmT {
+  width: 5.9rem;
+  height: 5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-2bgy-anZ .auto-group-9hv7-UmT .true-EVj {
+  width: 4.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 1.8rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personalinfo-nUm .profile-7xH .personalinfo-knH .auto-group-2bgy-anZ .auto-group-9hv7-UmT .verified--wuw {
+  width: 5.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.475;
+  color: #015fc7;
+  font-family: Padauk, 'Source Sans Pro';
+  white-space: nowrap;
+}

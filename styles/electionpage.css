@@ -1,0 +1,294 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.electionpage-Caq {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #001024;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 {
+  width: 74.6rem;
+  height: 3.875rem;
+  position: absolute;
+  left: 53.7rem;
+  top: 7.5rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 .auto-group-rmu9-U2Z {
+  margin-right: 9.1rem;
+  width: 33.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 .auto-group-rmu9-U2Z .elections-oad {
+  width: 10.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 .auto-group-rmu9-U2Z .group-7-WE9 {
+  width: 33.7rem;
+  height: 3.875rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.3rem #005ac7;
+  box-sizing: border-box;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 .contact-ajo {
+  margin-right: 9.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 .votebutton-WdT {
+  width: 14rem;
+  height: 3.5rem;
+  position: relative;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 .votebutton-WdT .rectangle-22-4Q5 {
+  width: 14rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #015fc7;
+  border-radius: 0.5rem;
+}
+.electionpage-Caq .dashboardnavbar-Lh3 .votebutton-WdT .vote-n5B {
+  width: 4.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.electionpage-Caq .upcoming-elections--fem {
+  width: 23.2rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 24.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.electionpage-Caq .auto-group-ohj5-yQZ {
+  box-sizing: border-box;
+  padding: 1.5rem 5.2rem 1.3rem 2.7rem;
+  width: 106.7rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 29.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #c4c4c4;
+  border-radius: 0.5rem;
+}
+.electionpage-Caq .auto-group-ohj5-yQZ .up-state-election--4gu {
+  margin-right: 67.5rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .auto-group-ohj5-yQZ .item-02-04-2022-av9 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .other-elections--HpZ {
+  width: 18.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 40rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #ffffff;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.electionpage-Caq .group-11-bKT {
+  box-sizing: border-box;
+  padding: 1.5rem 4.2rem 1.2rem 1.6rem;
+  width: 106.7rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 45.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #c4c4c4;
+  border-radius: 0.5rem;
+}
+.electionpage-Caq .group-11-bKT .manipur-state-election--u5F {
+  margin: 0rem 62.5rem 0.1rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .group-11-bKT .item-04-04-2022-ckM {
+  margin-top: 0.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .group-10-iYV {
+  box-sizing: border-box;
+  padding: 1.5rem 4.2rem 1.3rem 1.6rem;
+  width: 106.7rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 55.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #c4c4c4;
+  border-radius: 0.5rem;
+}
+.electionpage-Caq .group-10-iYV .chhatishgarh-state-election--Rho {
+  margin-right: 57.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .group-10-iYV .item-12-04-2022-Z3K {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .group-9-GiR {
+  box-sizing: border-box;
+  padding: 1.5rem 4.3rem 1.3rem 1.6rem;
+  width: 106.7rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 65rem;
+  display: flex;
+  align-items: center;
+  background-color: #c4c4c4;
+  border-radius: 0.5rem;
+}
+.electionpage-Caq .group-9-GiR .bangluru-state-election--nRs {
+  margin-right: 62.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .group-9-GiR .item-20-04-2022-7j3 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .group-8-Rzd {
+  box-sizing: border-box;
+  padding: 1.3rem 4.2rem 1.5rem 1.6rem;
+  width: 106.7rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 74.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #c4c4c4;
+  border-radius: 0.5rem;
+}
+.electionpage-Caq .group-8-Rzd .gurgaon-municipal-corporation-wCH {
+  margin-right: 53.7rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.electionpage-Caq .group-8-Rzd .item-26-04-2022-GEZ {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.37;
+  color: #000000;
+  font-family: DM Serif Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
